@@ -1,0 +1,45 @@
+@import "normalize";
+
+$green:   #a1be63;
+$black:   #111111;
+$silver:  gainsboro;
+
+body {
+  color: $black;
+  background-color: white;
+  font-family: "ff-tisa-web-pro-1","ff-tisa-web-pro-2",serif;
+}
+
+a {
+  color: $green;
+  text-decoration: none;
+  &:hover, &:focus {
+    color: lighten($green, 0.1);
+  }
+}
+
+
+h1 {
+  font-size: 1.4em;
+}
+
+h2 {
+  text-transform: uppercase;
+  font-size: 0.8em;
+  letter-spacing: 0.2em;
+  padding-bottom: 1rem;
+  border-bottom: double 3px $silver;
+}
+
+h1, h2, p {
+  text-align: center;
+}
+
+
+
+.site-main {
+  max-width: 640px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 1rem;
+}
