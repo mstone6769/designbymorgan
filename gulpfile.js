@@ -56,8 +56,8 @@ gulp.task('deploy', ['build'] ,function() {
   var remotePath = '/designbymorgan.com/';
   var conn = ftp.create({
     host: 'designbymorgan.com',
-    user: args.user
-    password: args.password
+    user: args.user,
+    password: args.password,
     log: gutil.log
   });
 
