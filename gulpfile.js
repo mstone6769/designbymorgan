@@ -6,10 +6,11 @@ var browserSync = require('browser-sync').create();
 var files = {
   html: ['./src/*.html'],
   img: ['./src/images/*'],
-  sass: ['./src/styles/*.scss']
+  sass: ['./src/styles/*.scss'],
+  addl: ['.htaccess']
 };
 
-files.all = files.html.concat(files.img);
+files.all = files.html.concat(files.img).concat(files.addl);
 
 gulp.task('compileStyle', function(){
   var sass = require('gulp-sass');
