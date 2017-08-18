@@ -7,7 +7,7 @@ var files = {
   html: ['./src/*.html'],
   img: ['./src/images/*'],
   sass: ['./src/styles/*.scss'],
-  addl: ['.htaccess']
+  addl: ['.htaccess', 'favicon.ico']
 };
 
 files.all = files.html.concat(files.img).concat(files.addl);
