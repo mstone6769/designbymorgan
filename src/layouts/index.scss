@@ -1,3 +1,7 @@
+$green:   #a1be63;
+$black:   #111111;
+$silver:  gainsboro;
+
 html {
   font-family: sans-serif;
   -ms-text-size-adjust: 100%;
@@ -54,4 +58,65 @@ b,
 strong {
   font-weight: inherit;
   font-weight: bolder;
+}
+
+body {
+  color: $black;
+  background-color: white;
+  font-family: "Palatino Linotype", Palatino, Palladio, "URW Palladio L", "Book Antiqua", Baskerville, "Bookman Old Style", "Bitstream Charter", "Nimbus Roman No9 L", Garamond, "Apple Garamond", "ITC Garamond Narrow", "New Century Schoolbook", "Century Schoolbook", "Century Schoolbook L", Georgia, serif;
+  font-size: 1.25rem;
+  line-height: 1.5;
+}
+
+a {
+  color: $green;
+  text-decoration: none;
+  &:hover, &:focus {
+    color: lighten($green, 0.1);
+  }
+}
+
+h1, h2 {
+  line-height: 1.5;
+}
+
+h1 {
+  font-size: 2rem;
+  @media (min-width: 800px) {
+    font-size: 3rem;
+  }
+}
+
+
+
+h2 {
+  text-transform: uppercase;
+  font-size: 0.8em;
+  letter-spacing: 0.2em;
+  padding-top: 1rem;
+  border-top: double 3px $silver;
+  margin-top: 3rem;
+  margin-bottom: 2rem;
+}
+
+h1, h2, p {
+  line-height: 1.5;
+}
+
+h3 {
+  font-size: inherit;
+  margin: 0;
+}
+
+p {
+  margin: 0 0 1rem 0;
+}
+
+
+
+.site-main {
+  max-width: 640px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 1rem;
 }
