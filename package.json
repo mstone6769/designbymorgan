@@ -15,8 +15,9 @@
   "license": "MIT",
   "main": "n/a",
   "scripts": {
+    "start": "npm run develop",
     "build": "gatsby build",
-    "develop": "gatsby develop",
+    "develop": "gatsby develop -p 8001",
     "format": "prettier --trailing-comma es5 --no-semi --single-quote --write \"src/**/*.js\"",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
