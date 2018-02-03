@@ -8,6 +8,8 @@ body {
   color: $black;
   background-color: white;
   font-family: "ff-tisa-web-pro-1","ff-tisa-web-pro-2",serif;
+  font-size: 1.25rem;
+  line-height: 1.5;
 }
 
 a {
@@ -18,21 +20,40 @@ a {
   }
 }
 
+h1, h2 {
+  line-height: 1.5;
+}
 
 h1 {
-  font-size: 1.4em;
+  font-size: 2rem;
+  @media (min-width: 800px) {
+    font-size: 3rem;
+  }
 }
+
+
 
 h2 {
   text-transform: uppercase;
   font-size: 0.8em;
   letter-spacing: 0.2em;
-  padding-bottom: 1rem;
-  border-bottom: double 3px $silver;
+  padding-top: 1rem;
+  border-top: double 3px $silver;
+  margin-top: 3rem;
+  margin-bottom: 2rem;
 }
 
 h1, h2, p {
-  text-align: center;
+  line-height: 1.5;
+}
+
+h3 {
+  font-size: inherit;
+  margin: 0;
+}
+
+p {
+  margin: 0 0 1rem 0;
 }
 
 
