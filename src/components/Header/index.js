@@ -2,15 +2,8 @@ import React from 'react'
 import Link from 'gatsby-link'
 
 const Header = () => (
-  <header
-    style={{
-      background: 'rebeccapurple',
-      marginBottom: '1.45rem',
-    }}
-  >
-
-  ddd
-    
+  <header className="container p1 condensed">
+    Morgan Stone &mdash; UI/UX Achitect
   </header>
 )
 

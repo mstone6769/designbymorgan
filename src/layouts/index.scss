@@ -2,6 +2,8 @@ $green:   #a1be63;
 $black:   #111111;
 $silver:  gainsboro;
 
+@import url("https://use.typekit.net/ijc7duc.css");
+
 html {
   font-family: sans-serif;
   -ms-text-size-adjust: 100%;
@@ -63,9 +65,10 @@ strong {
 body {
   color: $black;
   background-color: white;
-  font-family: "Palatino Linotype", Palatino, Palladio, "URW Palladio L", "Book Antiqua", Baskerville, "Bookman Old Style", "Bitstream Charter", "Nimbus Roman No9 L", Garamond, "Apple Garamond", "ITC Garamond Narrow", "New Century Schoolbook", "Century Schoolbook", "Century Schoolbook L", Georgia, serif;
+  font-family: "ff-tisa-web-pro-1","ff-tisa-web-pro-2","Palatino Linotype", Palatino, Palladio, "URW Palladio L", "Book Antiqua", Baskerville, "Bookman Old Style", "Bitstream Charter", "Nimbus Roman No9 L", Garamond, "Apple Garamond", "ITC Garamond Narrow", "New Century Schoolbook", "Century Schoolbook", "Century Schoolbook L", Georgia, serif;
   font-size: 1.25rem;
   line-height: 1.5;
+  font-weight: 400;
 }
 
 a {
@@ -76,8 +79,10 @@ a {
   }
 }
 
-h1, h2 {
+h1, h2, h3, p {
+  font-weight: inherit;
   line-height: 1.5;
+  margin: 0;
 }
 
 h1 {
@@ -90,22 +95,17 @@ h1 {
 
 
 h2 {
-  text-transform: uppercase;
-  font-size: 0.8em;
-  letter-spacing: 0.2em;
   padding-top: 1rem;
   border-top: double 3px $silver;
   margin-top: 3rem;
   margin-bottom: 2rem;
 }
 
-h1, h2, p {
-  line-height: 1.5;
-}
+
 
 h3 {
+  font-weight: inherit;
   font-size: inherit;
-  margin: 0;
 }
 
 p {
@@ -114,9 +114,18 @@ p {
 
 
 
-.site-main {
-  max-width: 640px;
+.p1 {
+  padding: 1rem;
+}
+
+.container {
+  max-width: 720px;
   margin-left: auto;
   margin-right: auto;
-  padding: 1rem;
+}
+
+h2, .condensed {
+  text-transform: uppercase;
+  font-size: 1rem;
+  letter-spacing: 0.2rem;
 }
