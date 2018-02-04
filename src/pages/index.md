@@ -4,20 +4,29 @@ title: "Morgan Stone - User Experience Architect"
 date: "2017-07-12T17:12:33.962Z"
 ---
 
-# Morgan Stone is a UI/UX architect, product designer, and front-end engineer.
+# Morgan Stone is a product designer and front-end engineer living in Birmingham, Alabama.
 
-I am a UI/UX architect which is something between being a product designer and front-end engineer. My day to day changes based on the needs of the business. Some days I am working with stakeholders while prototyping and testing new features in Sketch and InVision. Other days I am coding and reviewing front-end code written in Javascript, HTML, and CSS. I specialize in building Angular (both 1 and 2+) single page apps. I've also built out some React apps. 
+He works at [Influence Health](https://www.influencehealth.com) as a UI/UX Architect. He also teaches a course on web design to UAB Graphic Design students.
 
-In my off time I am a Course Instructor at UAB where I teach graphic design majors the principles of user experience and how to code HTML and CSS.
 
 ## Product Designer
+<div class="small-container">
 I work with stakeholders to prototype and develop new features in Sketch and InVision.
+</div>
 
+## Notable Work
+
+<div class="small-container">
+
+[Design for Good Birmingham](http://www.designforgoodbham.com)
+
+</div>
 
 ## Talks
+<div class="small-container">
 
 ### [Rapid Prototyping with Angular CLI](https://github.com/mstone6769/lets-build-a-zoo)
-Women Who Code, January 2018
+Women Who Code Birmingham, January 2018
 
 ### [Optimizing Angular (Client Side Performance)](https://www.slideshare.net/morganstone/optimizing-angular-performance-in-enterprise-single-page-apps)
 Birmingham Javascript Meetup, June 2016
@@ -27,3 +36,14 @@ Birmingham Javascript Meetup, April 2015
 
 ### An Introduction to Foundation: A Responsive Design Framework
 AIGA Birmingham, November 2013
+
+</div>
+
+
+## Contact
+
+<div class="small-container">
+
+We can connect via [Email](mailto:mstone@designbymorgan.com), [Twitter](https://twitter.com/morganstone), or [LinkedIn](https://www.linkedin.com/in/morganstone).
+
+</div>
