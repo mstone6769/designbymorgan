@@ -8,20 +8,6 @@ date: "2017-07-12T17:12:33.962Z"
 
 He works at [Influence Health](https://www.influencehealth.com) as a UI/UX Architect. He also teaches a course on web design to UAB Graphic Design students.
 
-
-## Product Designer
-<div class="small-container">
-I work with stakeholders to prototype and develop new features in Sketch and InVision.
-</div>
-
-## Notable Work
-
-<div class="small-container">
-
-[Design for Good Birmingham](http://www.designforgoodbham.com)
-
-</div>
-
 ## Talks
 <div class="small-container">
 

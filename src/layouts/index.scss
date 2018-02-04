@@ -1,4 +1,4 @@
-$green:   #a1be63;
+$green:   darken(#a1be63, 10%);
 $black:   #111111;
 $silver:  gainsboro;
 
@@ -73,6 +73,7 @@ a {
   color: $green;
   text-decoration: none;
   &:hover, &:focus {
+    border-bottom: 1px dotted lighten($green, 0.1);
     color: lighten($green, 0.1);
   }
 }
