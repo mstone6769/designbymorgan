@@ -1,6 +1,6 @@
 # [designbymorgan.com](https://www.designbymorgan.com)
 
-Personal site of Morgan Stone using [gatsby]((https://www.gatsbyjs.org)
+Personal site of Morgan Stone using [gatsby](https://www.gatsbyjs.org)
 
 ##  Installation
 
