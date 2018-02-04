@@ -1,8 +1,8 @@
 {
-  "name": "gatsby-starter-default",
-  "description": "Gatsby default starter",
-  "version": "1.0.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "name": "designbymorgan",
+  "description": "Personal site of Morgan Stone",
+  "version": "3.0.0",
+  "author": "Morgan Stone <mstone@designbymorgan.com>",
   "dependencies": {
     "gatsby": "^1.9.158",
     "gatsby-link": "^1.6.34",

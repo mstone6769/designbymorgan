@@ -20,6 +20,9 @@ Birmingham Javascript Meetup, June 2016
 ### [Foundation for Apps](https://github.com/mstone6769/theRocksRecipes)
 Birmingham Javascript Meetup, April 2015
 
+### Sass: Get Spunky Writing CSS
+AIGA Birmingham, March 2014
+
 ### An Introduction to Foundation: A Responsive Design Framework
 AIGA Birmingham, November 2013
 
