@@ -28,6 +28,15 @@ AIGA Birmingham, November 2013
 
 </div>
 
+## Interviews
+<div class="small-container">
+
+### [Finding success in digital careers](http://www.uab.edu/mix/stories/finding-success-in-digital-careers)
+UAB Mix, March 2017
+
+
+</div>
+
 
 ## Contact
 
