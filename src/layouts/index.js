@@ -19,10 +19,13 @@ class TemplateWrapper extends React.Component {
     return (
       <div>
         <Helmet
-          title="Morgan Stone | UI/UX Achitect | Product Designer | Front-End Engineer"
+          htmlAttributes={{
+            lang: 'en'
+          }}
+          title='Morgan Stone | Front-End Engineer | Product Designer | UI/UX Achitect'
           meta={[
-            { name: 'description', content: 'UI/UX Achitect, Product Designer, Front-End Engineer' },
-            { name: 'keywords', content: 'UI/UX Achitect, Product Designer, Front-End Engineer' },
+            { name: 'description', content: 'Personal website of Morgan Stone' },
+            { name: 'keywords', content: 'UI/UX Achitect, Product Designer, Front-End Engineer, Birmingham' },
           ]}
         />
         <Header />

@@ -1,7 +1,7 @@
 ---
 path: "/"
-title: "Morgan Stone - User Experience Architect"
-date: "2017-07-12T17:12:33.962Z"
+title: "Morgan Stone | Front-End Engineer | Product Designer | UI/UX Achitect"
+date: "2018-02-04T17:12:33.962Z"
 ---
 
 # Morgan Stone is a product designer and front-end engineer living in Birmingham, Alabama.
@@ -25,6 +25,15 @@ AIGA Birmingham, March 2014
 
 ### An Introduction to Foundation: A Responsive Design Framework
 AIGA Birmingham, November 2013
+
+</div>
+
+## Interviews
+<div class="small-container">
+
+### [Finding success in digital careers](http://www.uab.edu/mix/stories/finding-success-in-digital-careers)
+UAB Mix, March 2017
+
 
 </div>
 
