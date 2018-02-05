@@ -16,7 +16,6 @@ module.exports = {
         trackingId: `UA-1337770-1`,
       },
     },
-    `gatsby-plugin-offline`,
     {
       resolve: `gatsby-source-filesystem`,
       options: {
@@ -56,6 +55,7 @@ module.exports = {
           },
         ],
       },
-    }
+    },
+    'gatsby-plugin-offline'
   ],
 };
