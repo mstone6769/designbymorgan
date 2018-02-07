@@ -12,7 +12,7 @@ exports.modifyWebpackConfig = ({ config, stage }) => {
 exports.createPages = ({ boundActionCreators, graphql }) => {
   const { createPage } = boundActionCreators;
 
-  const blogPostTemplate = path.resolve(`src/templates/blog-post.js`);
+  const pageTemplate = path.resolve(`src/templates/page.js`);
 
   return graphql(`{
     allMarkdownRemark(
@@ -42,7 +42,7 @@ exports.createPages = ({ boundActionCreators, graphql }) => {
         .forEach(({ node }) => {
           createPage({
             path: node.frontmatter.path,
-            component: blogPostTemplate,
+            component: pageTemplate,
             context: {} // additional data can be passed via context
           });
         });
