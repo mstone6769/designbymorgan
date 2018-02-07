@@ -1,12 +1,11 @@
 ---
 path: "/"
-title: "Morgan Stone | Front-End Engineer | Product Designer | UI/UX Achitect"
+title: "Morgan Stone | Front-end Engineer | Product Designer | UI/UX Achitect"
 date: "2018-02-04T17:12:33.962Z"
 ---
 
-# Morgan Stone is a product designer and front-end engineer living in Birmingham, Alabama.
+# Howdy! I'm a <a href="https://www.linkedin.com/in/morganstone/">front-end engineer and product designer</a> from <a href="https://en.wikipedia.org/wiki/Birmingham,_Alabama" title="Birmingham, Alabama">The Magic City</a>. I work for Influence Health where we're building the <a href="https://www.influencehealth.com/consumer-experience-platform/">next big thing in healthcare</a>. In my off time, I teach  <a href="http://www.uab.edu/cas/art/">design majors</a> how to craft delightful experiences for the web.
 
-He works at [Influence Health](https://www.influencehealth.com) as a UI/UX Architect. He also teaches a course on web design to UAB Graphic Design students.
 
 ## Talks
 <div class="small-container">
