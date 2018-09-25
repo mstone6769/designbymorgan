@@ -1,10 +1,10 @@
 ---
 path: "/"
-title: "Morgan Stone | Front-end Engineer | Product Designer | UI/UX Achitect"
-date: "2018-02-04T17:12:33.962Z"
+title: "Morgan Stone | Engineering Manager"
+date: "2018-09-25T17:12:33.962Z"
 ---
 
-# Howdy! I'm a <a href="https://www.linkedin.com/in/morganstone/">front-end engineer and product designer</a> from <a href="https://en.wikipedia.org/wiki/Birmingham,_Alabama" title="Birmingham, Alabama">The Magic City</a>. I work for Influence Health where we're building the <a href="https://www.influencehealth.com/consumer-experience-platform/">next big thing in healthcare</a>. In my off time, I teach  <a href="http://www.uab.edu/cas/art/">design majors</a> how to craft delightful experiences for the web.
+# Howdy! I'm a <a href="https://www.linkedin.com/in/morganstone/">Engineering Manager</a> from <a href="https://en.wikipedia.org/wiki/Birmingham,_Alabama" title="Birmingham, Alabama">The Magic City</a>. I work for Influence Health where we're building the <a href="https://www.influencehealth.com/consumer-experience-platform/">next big thing in healthcare</a>. In my off time, I teach  <a href="http://www.uab.edu/cas/art/">design majors</a> how to craft delightful experiences for the web.
 
 
 ## Talks
