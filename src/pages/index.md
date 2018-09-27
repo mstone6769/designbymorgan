@@ -1,7 +1,7 @@
 ---
 path: "/"
 title: "Morgan Stone | Software Engineer"
-date: "2018-09-25T17:12:34.962Z"
+date: "2018-09-26T09:04:34.962Z"
 ---
 
 # Howdy! I'm a <a href="https://www.linkedin.com/in/morganstone/">software engineer</a> from <a href="https://en.wikipedia.org/wiki/Birmingham,_Alabama" title="Birmingham, Alabama">The Magic City</a>. I work for Influence Health where I lead a team that is building the <a href="https://www.influencehealth.com/consumer-experience-platform/">next big thing in healthcare</a>. In my off time, I teach  <a href="http://www.uab.edu/cas/art/">design majors</a> how to craft delightful experiences for the web.
