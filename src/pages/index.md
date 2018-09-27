@@ -44,3 +44,23 @@ UAB Mix, March 2017
 We can connect via [Email](mailto:mstone@designbymorgan.com), [Twitter](https://twitter.com/morganstone), or [LinkedIn](https://www.linkedin.com/in/morganstone).
 
 </div>
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Person",
+  "name": "Morgan Stone",
+  "url": "https://www.designbymorgan.com",
+  "sameAs": [
+    "https://www.linkedin.com/in/morganstone",
+    "https://github.com/mstone6769",
+    "https://codepen.io/mstone6769/",
+    "https://twitter.com/morganstone",
+    "https://www.instagram.com/mstone6769/",
+    "https://www.behance.net/mstone",
+    "https://www.flickr.com/people/morganstone/",
+    "https://dribbble.com/mstone",
+    "https://www.facebook.com/mstone"
+  ]
+}
+</script>
