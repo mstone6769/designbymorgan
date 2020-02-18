@@ -1,2 +1,3 @@
 # Redirect to morganstone.me
-/ https://morganstone.me/
+/ https://morganstone.me/ 301
+/* https://morganstone.me/ 301
